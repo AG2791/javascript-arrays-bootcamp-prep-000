@@ -36,6 +36,14 @@ function destructivelyRemovelElementFromBeginningOfArray(array)
 }
 
 
+function destructivelyRemovelElementFromBeginningOfArray(array)
+{ 
+  array.shift();
+  return array;
+}
+
+
+
 function accessElementInArray(array, index){
   return array[index]
 }
