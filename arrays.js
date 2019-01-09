@@ -31,11 +31,11 @@ function accessElementInArray(array, index) {
 }
   
 
-// function destructivelyRemovelElementFromBeginningOfArray(array)
-// { 
-//   array.;
-//   return array;
-// }
+function destructivelyRemovelElementFromBeginningOfArray(array)
+{ 
+  array.;
+  return array;
+}
 
 
 function accessElementInArray(array, index){
